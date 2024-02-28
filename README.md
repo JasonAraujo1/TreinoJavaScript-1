@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src=".github/thumbnail-nfts.png" width="100%">
+  <img alt="" src=".github/1.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
